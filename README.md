@@ -53,6 +53,6 @@ Start the development server:
     CSS:styling for the web application.
 
 Screenshots
-![alt text](image-2.png)
-![alt text](image-1.png)
-![alt text](image.png)
+![alt text](./public/images/image-2.png)
+![alt text](./public/images/image-1.png)
+![alt text](./public/images/image.png)
