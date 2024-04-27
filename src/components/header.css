@@ -1,0 +1,30 @@
+.header {
+    background-image: linear-gradient(to right, #8BD8DB, #8DD9A7, #95D273);
+    padding: 20px;
+  }
+  
+  .nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .startup-heading {
+    color: #191919;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .menu-btn {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .menu-icon {
+    width: 24px;
+    height: 24px;
+    fill: white;
+    color: white;
+  }
+  
